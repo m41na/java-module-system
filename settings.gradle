@@ -1,0 +1,10 @@
+rootProject.name = 'java-module-system'
+
+include 'api-service'
+include 'lib-milk'
+include 'lib-soda'
+include 'lib-juice'
+include 'lib-water'
+include 'drink-app'
+include 'lib-greet'
+include 'greet-app'
